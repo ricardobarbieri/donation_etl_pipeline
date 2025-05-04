@@ -1,0 +1,5 @@
+[
+    {"donor_id": 1, "amount": 50.0, "campaign_id": 101, "timestamp": "2025-05-03T10:00:00"},
+    {"donor_id": 2, "amount": 100.0, "campaign_id": 102, "timestamp": "2025-05-03T10:01:00"},
+    {"donor_id": 1, "amount": 75.0, "campaign_id": 101, "timestamp": "2025-05-03T10:02:00"}
+]
